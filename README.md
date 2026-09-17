@@ -82,11 +82,11 @@ Passenger's preferred route
               ┌──────────────────────────────┐
               │       OUTPUT LAYER           │
               │                              │
-              │ 🗺 Interactive Map            │
-              │ 🧭 Step-by-Step Directions   │
-              │ 🔊 Voice Guidance            │
-              │ 📱 Mobile Navigation         │
-              │ 🖥 Digital Kiosk             │
+              │   Interactive Map            │
+              │   Step-by-Step Directions    │
+              │   Voice Guidance             │
+              │   Mobile Navigation          │
+              │   Digital Kiosk              │
               └──────────────────────────────┘
 
 ## Use Cases
